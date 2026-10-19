@@ -1,5 +1,9 @@
 # AI for Educators: Future-Ready Teaching
 
+![My journey of discovery: Dr. Faisal Iradat's path from Kano, Nigeria, through Karachi and a PhD in telecommunications, to teaching](images/my-journey-of-discovery.png)
+
+*My journey of discovery: Dr. Faisal Iradat*
+
 A 4-hour hands-on faculty workshop on using AI in teaching: building a Socratic course AI tutor in Microsoft Copilot Studio, creating teaching materials with AI, understanding plagiarism and AI detection (Turnitin), and embedding tools in Sakai.
 
 - **Date:** Tuesday, 20 October 2026
@@ -41,6 +45,7 @@ A 4-hour hands-on faculty workshop on using AI in teaching: building a Socratic 
 | [docs/10-slide-outline.md](docs/10-slide-outline.md) | Slide-by-slide outline |
 | [docs/11-participant-handout.md](docs/11-participant-handout.md) | Printable handout |
 | [docs/12-sources.md](docs/12-sources.md) | Sources (Microsoft, Turnitin, Sakai guides) |
+| [slides/AI-for-Educators-Workshop-Slides.pptx](slides/AI-for-Educators-Workshop-Slides.pptx) | PowerPoint version of the 28 slides, with speaker notes |
 | [slides/slides-and-notes.md](slides/slides-and-notes.md) | All 28 slides with speaker notes |
 | [slides/source/](slides/source/) | Slide HTML source (`deck.json` + one file per slide) |
 
