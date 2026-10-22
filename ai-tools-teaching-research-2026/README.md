@@ -14,6 +14,7 @@ The workshop runs in four sessions plus an action plan:
 
 | Path | What it is |
 | --- | --- |
+| `slides/AI-Tools-Workshop-Day-Slides.pptx` | PowerPoint of all 91 slides, with speaker notes. Each slide is a picture of the live deck as of 22 Oct 2026, so it looks the same everywhere, but its text can't be edited and its links aren't clickable. Edit the live deck or the source below. |
 | `slides/source/deck.json` | Slide order and sections for the 91-slide Workshop Day deck |
 | `slides/source/slides/*.html` | One file per slide, with speaker notes in `<aside>`. Matches the live deck as edited on 22 Oct 2026. |
 | `quiz/Diagnostic_Quiz_EdTech_10min.md` | Pre-session check-in: questions, answer key, why each answer is right, trainer read-out |
