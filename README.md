@@ -28,26 +28,6 @@ A 4-hour hands-on faculty workshop on using AI in teaching: building a Socratic 
 | 3:35–3:55 | Plagiarism and AI detection | 20 |
 | 3:55–4:15 | Embedding in Sakai, action plan and close | 20 |
 
-## What's in this repo
-
-| File | What it is |
-| --- | --- |
-| [docs/00-at-a-glance.md](docs/00-at-a-glance.md) | Event details, agenda, pre-workshop checklist |
-| [docs/01-opening-script.md](docs/01-opening-script.md) | Word-for-word opening and mindset exercise |
-| [docs/02-trainer-guide.md](docs/02-trainer-guide.md) | Timed run sheet with talking points and facilitator moves |
-| [docs/03-activity-1-build-your-tutor.md](docs/03-activity-1-build-your-tutor.md) | Step-by-step Copilot Studio build and the five tests |
-| [docs/04-instruction-templates.md](docs/04-instruction-templates.md) | Agent instructions: tutor, 6 discipline modules, role-play, FAQ, faculty assistant |
-| [docs/05-activity-2-prompts.md](docs/05-activity-2-prompts.md) | Ready prompts: rubric, MCQs (Sakai import), slides, case study, role-play, survey/poll, FAQ |
-| [docs/06-plagiarism-and-ai-detection.md](docs/06-plagiarism-and-ai-detection.md) | Turnitin facts, limitations, response steps, AI-resistant design, discussion cards |
-| [docs/07-embedding-in-sakai.md](docs/07-embedding-in-sakai.md) | Embedding a Copilot Studio agent in Sakai, plus other Sakai tips |
-| [docs/08-closing-and-action-plan.md](docs/08-closing-and-action-plan.md) | Closing script, 30-day action plan template, feedback form |
-| [docs/09-troubleshooting.md](docs/09-troubleshooting.md) | Problems, causes and fixes |
-| [docs/10-slide-outline.md](docs/10-slide-outline.md) | Slide-by-slide outline |
-| [docs/11-participant-handout.md](docs/11-participant-handout.md) | Printable handout |
-| [docs/12-sources.md](docs/12-sources.md) | Sources (Microsoft, Turnitin, Sakai guides) |
-| [slides/AI-for-Educators-Workshop-Slides.pptx](slides/AI-for-Educators-Workshop-Slides.pptx) | PowerPoint version of the 28 slides, with speaker notes |
-| [slides/slides-and-notes.md](slides/slides-and-notes.md) | All 28 slides with speaker notes |
-| [slides/source/](slides/source/) | Slide HTML source (`deck.json` + one file per slide) |
 
 ## Using the materials
 
